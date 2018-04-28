@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Yauheni Baranouski on 4/28/18.
+  
+*/
+
+
+"accept" = "Aceptar";
+"cancel" = "Cancelar";
+
+"bus" = "Bus";
+"capacity" = "Capacidad";
+
+"low_to_hight" = "Bajo a alto";
+"height_to_low" = "De alto a bajo";
+
+"English" = "Inglés";
+"Spanish" = "Español";
+
+"ChangeLanguage" = "Cambiar idioma";
